@@ -1,0 +1,20 @@
+.text-white {
+  color: #fff;
+}
+
+.text-black {
+  color: #000;
+  font-weight: 500;
+}
+
+.bg-blue {
+  background-color: #004aad;
+}
+
+.p-top {
+  padding-top: 10px;
+}
+
+.m-right {
+  margin-right: 20px;
+}
