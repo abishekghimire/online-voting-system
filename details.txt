@@ -1,0 +1,9 @@
+admin login details =>
+
+username= zoro
+password= 111
+
+user login details =>
+
+username= sanji
+password= 111
